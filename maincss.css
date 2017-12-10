@@ -54,6 +54,10 @@
 	float:right;
 }
 
+.search{
+    width:300px;
+}
+
 body {
 	background: #f7faff;
 }
